@@ -14,18 +14,19 @@ TIME COUNTER
     4.Changes color as the time remaining nears zero
     5.Displays the progress of time remaining as an animated ring
  
- Here i used two html file where first file stores the main page where you will see a button click .
- After clicking that button you will move on the next page where you will see a timer which will 
- start automatically. 
+
+    Here i used two html file where first file stores the main page where you will see a button click .
+    After clicking that button you will move on the next page where you will see a timer which will 
+    start automatically. 
  
- Here i also used backgraound color ,font color ,font size ,font type etc.
+    Here i also used backgraound color ,font color ,font size ,font type etc.
  
- It is based on HTML, CSS and JAVASCRIPT
+    It is based on HTML, CSS and JAVASCRIPT
  
- THANK YOU
+    THANK YOU
  
  Author:
- 
+    
     Manisha 
      MCA
 
