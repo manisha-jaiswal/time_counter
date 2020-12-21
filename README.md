@@ -14,6 +14,7 @@ TIME COUNTER
     4.Changes color as the time remaining nears zero
     5.Displays the progress of time remaining as an animated ring
  
+Explanation
 
     Here i used two html file where first file stores the main page where you will see a button click .
     After clicking that button you will move on the next page where you will see a timer which will 
@@ -23,7 +24,7 @@ TIME COUNTER
  
     It is based on HTML, CSS and JAVASCRIPT
  
-    THANK YOU
+ THANK YOU
  
  Author:
     
